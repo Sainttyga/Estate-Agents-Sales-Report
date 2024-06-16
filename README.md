@@ -1,8 +1,4 @@
-Certainly! Here's a sample README file for your project:
-
----
-
-# LindokuhleAtWork Property Sales Management
+# Estate Agents Sales Report
 
 ## Overview
 This project is a simple Java application for managing property sales by estate agents. It includes functionalities to calculate total sales, commission earned, and identify the top-performing estate agent based on sales figures.
