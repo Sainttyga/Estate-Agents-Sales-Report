@@ -34,7 +34,7 @@ This project is a simple Java application for managing property sales by estate 
 Example Output:  
 ESTATE AGENTS SALES REPORT  
                      JAN             FEB             MAR  
-------------------------------------------------------------  
+`------------------------------------------------------------`  
 Joe Bloggs       800,000.00     1,500,000.00     2,000,000.00  
 Jane Doe         700,000.00     1,200,000.00     1,600,000.00  
   
