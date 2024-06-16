@@ -31,20 +31,20 @@ This project is a simple Java application for managing property sales by estate 
 - **Running Tests**: Use JUnit to run tests in `PropertySalesTest` class.
 
 ### Usage
-Example Output:
-**ESTATE AGENTS SALES REPORT
-                     JAN             FEB             MAR
-------------------------------------------------------------
-Joe Bloggs       800,000.00     1,500,000.00     2,000,000.00
-Jane Doe         700,000.00     1,200,000.00     1,600,000.00
+Example Output:  
+ESTATE AGENTS SALES REPORT  
+                     JAN             FEB             MAR  
+------------------------------------------------------------  
+Joe Bloggs       800,000.00     1,500,000.00     2,000,000.00  
+Jane Doe         700,000.00     1,200,000.00     1,600,000.00  
+  
+Total property sales for Joe Bloggs: R 4,300,000.00  
+Total property sales for Jane Doe: R 3,500,000.00  
 
-Total property sales for Joe Bloggs: R 4,300,000.00
-Total property sales for Jane Doe: R 3,500,000.00
-
-Sales Commission for Joe Bloggs: R 86,000.00
-Sales Commission for Jane Doe: R 70,000.00
-
-Top performing estate agent: Joe Bloggs**
+Sales Commission for Joe Bloggs: R 86,000.00  
+Sales Commission for Jane Doe: R 70,000.00  
+  
+Top performing estate agent: Joe Bloggs  
 
 ### Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please submit an issue or create a pull request.
